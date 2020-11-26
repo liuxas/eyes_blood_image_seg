@@ -35,6 +35,7 @@
 |  SN    | 0.744 | 0.750 | 0.927 |
 |  SP    | 0.985 | 0.985 | 0.926 |
 |  PR    | 0.880 | 0.878 | 0.648 |
+|  Speed(S/100张) | 1.262 | 2.182 | 2.268 |
 
 ## 测试结果
 1. unet
@@ -45,3 +46,6 @@
 
 1. vssc_clas_weight
 ![1](https://github.com/liuxas/eyes_blood_image_seg/blob/main/vssc_class_weight_true_pred.png)
+
+## 结论
+两个网络效果差不多，学习率和类别权重参数能够影响各个指标。
