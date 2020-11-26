@@ -38,10 +38,10 @@
 
 ## 测试结果
 1. unet
-![1](/home/liux/文档/md/unet_true_pred.png) 
+![1](https://github.com/liuxas/eyes_blood_image_seg/blob/main/unet_true_pred.png) 
 
-2. vssc
-![1](/home/liux/文档/md/vssc_true_pred.png)
+1. vssc
+![1](https://github.com/liuxas/eyes_blood_image_seg/blob/main/vssc_true_pred.png)
 
-3. vssc_clas_weight
-![1](/home/liux/文档/md/vssc_class_weight_true_pred.png)
+1. vssc_clas_weight
+![1](https://github.com/liuxas/eyes_blood_image_seg/blob/main/vssc_class_weight_true_pred.png)
